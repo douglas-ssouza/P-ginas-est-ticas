@@ -47,7 +47,8 @@ nav a:last-child {
     background-repeat: no-repeat;
     background-size: 20%;
 
-    float: right;
+    position: absolute;
+    right: 18px;
 }
 
 .card {
@@ -78,3 +79,5 @@ nav a:last-child {
 .bone {
     background-image: url(./imagens/bone.jpg);
 }
+
+
